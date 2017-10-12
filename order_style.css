@@ -1,0 +1,35 @@
+@import http://fonts.googleapis.com/css?family=Raleway;
+/*----------------------------------------------
+CSS Settings For HTML Div ExactCenter
+------------------------------------------------*/
+div 
+{
+	position:center;
+	margin-left :200px;
+	margin-right:500px;
+}
+#main {
+width:960px;
+margin:50px auto;
+font-family:raleway
+}
+
+h2 
+{
+background-color:#8585AD;
+text-align:center;
+border-radius:10px 10px 0 0;
+margin:-10px -40px;
+padding:15px
+}
+
+#main2{
+width:800px;
+float:left;
+border-radius:10px;
+font-family:raleway;
+border:2px solid #ccc;
+padding:10px 40px 25px;
+margin-top:70px
+}
+
