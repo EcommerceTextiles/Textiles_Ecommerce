@@ -1,0 +1,42 @@
+body{
+   padding-top:50px;
+}
+
+#headerWrapper{
+  position:relative;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  height: 600px;
+  background-image: url(../images/background/bgfinal.jpg);
+  background-size:cover;
+  background-position: top center;
+  background-attachment: fixed;
+}
+
+#footer
+{
+  margin-top:50px;
+  margin-bottom: 25px;
+}
+
+img.details{
+  width: 33%;
+  margin: 15px auto;
+}
+
+#login{
+margin-top:1px;
+margin-right:2px;
+position:absolute;
+top: 0;
+right: 0;
+}
+
+.btn-success {
+    border-color:#8585ad; background-color:#8585ad;
+}
+.btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active, .open>.dropdown-toggle.btn-success {
+    border-color:#8585ad;
+    background-color:#8585ad;
+}
